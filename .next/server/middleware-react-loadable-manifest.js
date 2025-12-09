@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages/viewer.js -> ../components/ModelViewer\":{\"id\":\"pages/viewer.js -> ../components/ModelViewer\",\"files\":[\"static/chunks/components_ModelViewer_jsx.js\"]}}"

@@ -1,0 +1,33 @@
+/* Global theme */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    sans-serif;
+}
+
+body {
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+.louref-toolbar {
+  position: fixed;
+  top: 96px;
+  right: 24px;
+  left: auto;
+}

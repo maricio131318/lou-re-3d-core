@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/mauriciomendoza/Desktop/lou-re-3d-core/styles/globals.css"],"sourcesContent":["/* Global theme */\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nhtml,\nbody,\n#__next {\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  background: #000;\n  color: #fff;\n  font-family: system-ui, -apple-system, BlinkMacSystemFont, \"SF Pro Text\",\n    sans-serif;\n}\n\nbody {\n  line-height: 1.5;\n}\n\na {\n  color: inherit;\n}\n\n.louref-toolbar {\n  position: fixed;\n  top: 96px;\n  right: 24px;\n  left: auto;\n}\n"],"names":[],"mappings":"AACA;;;;AAMA;;;;;;;;;AAYA;;;;AAIA;;;;AAIA"}}]
+}

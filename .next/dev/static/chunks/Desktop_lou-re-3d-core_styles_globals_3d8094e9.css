@@ -1,0 +1,30 @@
+/* [project]/Desktop/lou-re-3d-core/styles/globals.css [client] (css) */
+*, :before, :after {
+  box-sizing: border-box;
+}
+
+html, body, #__next {
+  color: #fff;
+  background: #000;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, SF Pro Text, sans-serif;
+}
+
+body {
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+.louref-toolbar {
+  position: fixed;
+  top: 96px;
+  left: auto;
+  right: 24px;
+}
+
+/*# sourceMappingURL=Desktop_lou-re-3d-core_styles_globals_3d8094e9.css.map*/

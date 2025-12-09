@@ -1,0 +1,22 @@
+{
+  "name": "lou-re-3d-core",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
+    "@supabase/supabase-js": "^2.46.0",
+    "axios": "^1.13.2",
+    "busboy": "^1.6.0",
+    "next": "^16.0.8",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "three": "^0.163.0"
+  }
+}
